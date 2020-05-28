@@ -1,0 +1,98 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3312
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312
+\ql VARIABLES\cell\qc y2\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312
+\ql \cell\qc \cell\row
+\ql 1981.year\cell\qc 0.998\cell\row
+\ql \cell\qc (2.334)\cell\row
+\ql 1982.year\cell\qc 2.013\cell\row
+\ql \cell\qc (2.333)\cell\row
+\ql 1983.year\cell\qc 2.987\cell\row
+\ql \cell\qc (2.333)\cell\row
+\ql 1984.year\cell\qc 4.014*\cell\row
+\ql \cell\qc (2.333)\cell\row
+\ql 1985.year\cell\qc 4.993**\cell\row
+\ql \cell\qc (2.333)\cell\row
+\ql 1986.year\cell\qc 9.189***\cell\row
+\ql \cell\qc (2.116)\cell\row
+\ql 1987.year\cell\qc 11.19***\cell\row
+\ql \cell\qc (2.065)\cell\row
+\ql 1988.year\cell\qc 13.19***\cell\row
+\ql \cell\qc (2.017)\cell\row
+\ql 1989.year\cell\qc 15.20***\cell\row
+\ql \cell\qc (1.975)\cell\row
+\ql 1990.year\cell\qc 17.17***\cell\row
+\ql \cell\qc (1.937)\cell\row
+\ql 1991.year\cell\qc 19.18***\cell\row
+\ql \cell\qc (1.905)\cell\row
+\ql 1992.year\cell\qc 23.19***\cell\row
+\ql \cell\qc (1.812)\cell\row
+\ql 1993.year\cell\qc 25.72***\cell\row
+\ql \cell\qc (1.781)\cell\row
+\ql 1994.year\cell\qc 28.23***\cell\row
+\ql \cell\qc (1.759)\cell\row
+\ql 1995.year\cell\qc 30.77***\cell\row
+\ql \cell\qc (1.745)\cell\row
+\ql 1996.year\cell\qc 33.32***\cell\row
+\ql \cell\qc (1.739)\cell\row
+\ql 1997.year\cell\qc 35.84***\cell\row
+\ql \cell\qc (1.742)\cell\row
+\ql 1998.year\cell\qc 50.43***\cell\row
+\ql \cell\qc (1.676)\cell\row
+\ql 1999.year\cell\qc 55.54***\cell\row
+\ql \cell\qc (1.677)\cell\row
+\ql 2000.year\cell\qc 60.70***\cell\row
+\ql \cell\qc (1.690)\cell\row
+\ql 2001.year\cell\qc 65.81***\cell\row
+\ql \cell\qc (1.714)\cell\row
+\ql 2002.year\cell\qc 70.97***\cell\row
+\ql \cell\qc (1.749)\cell\row
+\ql 2003.year\cell\qc 76.09***\cell\row
+\ql \cell\qc (1.793)\cell\row
+\ql 2004.year\cell\qc 87.27***\cell\row
+\ql \cell\qc (1.812)\cell\row
+\ql 2005.year\cell\qc 93.32***\cell\row
+\ql \cell\qc (1.852)\cell\row
+\ql 2006.year\cell\qc 99.38***\cell\row
+\ql \cell\qc (1.897)\cell\row
+\ql 2007.year\cell\qc 105.4***\cell\row
+\ql \cell\qc (1.948)\cell\row
+\ql 2008.year\cell\qc 111.5***\cell\row
+\ql \cell\qc (2.004)\cell\row
+\ql 2009.year\cell\qc 117.6***\cell\row
+\ql \cell\qc (2.066)\cell\row
+\ql 2010.year\cell\qc 127.6***\cell\row
+\ql \cell\qc (2.026)\cell\row
+\ql 2011.year\cell\qc 134.0***\cell\row
+\ql \cell\qc (2.069)\cell\row
+\ql 2012.year\cell\qc 140.4***\cell\row
+\ql \cell\qc (2.115)\cell\row
+\ql 2013.year\cell\qc 146.8***\cell\row
+\ql \cell\qc (2.161)\cell\row
+\ql 2014.year\cell\qc 153.2***\cell\row
+\ql \cell\qc (2.211)\cell\row
+\ql 2015.year\cell\qc 159.6***\cell\row
+\ql \cell\qc (2.263)\cell\row
+\ql 2016.year\cell\qc 166.0***\cell\row
+\ql \cell\qc (2.317)\cell\row
+\ql 2017.year\cell\qc 172.4***\cell\row
+\ql \cell\qc (2.373)\cell\row
+\ql 2018.year\cell\qc 178.8***\cell\row
+\ql \cell\qc (2.432)\cell\row
+\ql 2019.year\cell\qc 185.2***\cell\row
+\ql \cell\qc (2.491)\cell\row
+\ql treat\cell\qc -21.82***\cell\row
+\ql \cell\qc (0.913)\cell\row
+\ql Constant\cell\qc 3.584**\cell\row
+\ql \cell\qc (1.650)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 30,000\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312
+\ql R-squared\cell\qc 0.827\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

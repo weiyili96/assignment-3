@@ -1,0 +1,14 @@
+	(1)
+VARIABLES	demeanedy
+	
+demeanedd	-15.50
+	(27.31)
+time	45.00
+	(27.31)
+Constant	-67.50
+	(43.10)
+	
+Observations	10
+R-squared	0.284
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
